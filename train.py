@@ -1,1 +1,1 @@
-print("I am training a Deep Learning model here.")
+print("I am training a simple logistic regression model here.")
